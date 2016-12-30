@@ -1,2 +1,2 @@
 # how-to.com
-This is my first website ever! I :heart: coding!
+This is a work in progress website of a bunch of life hacks! I :heart: coding!
